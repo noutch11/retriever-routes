@@ -14,6 +14,6 @@ An advanced campus navigation platform for UMBC that replaces standard OSRM prot
 
 ***
 
-This was a collaborative capstone project at UMBC. While the overall application was built by a team, the backend routing engine, API transformation logic, and maneuver mapping described above were written by Brian Noutchang.
+This was a collaborative capstone project at UMBC. While the overall application was built by a team, the backend routing engine, API transformation logic, and maneuver mapping described above were written by me.
 
 **[View My Contributions Here](https://github.com/lynasberaich/retriever-routes/commits?author=noutch11)**
